@@ -16,6 +16,7 @@ z wykorzystaniem paradygmatu programowania funkcyjnego.
 - zapisywanie danych w localStorage
 
 ## Uruchomienie lokalne
+```bash
 npm install
 npm run dev
 
