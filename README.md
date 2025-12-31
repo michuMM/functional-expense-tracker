@@ -19,7 +19,10 @@ z wykorzystaniem paradygmatu programowania funkcyjnego.
 ```bash
 npm install
 npm run dev
+```
 
 ## Uruchomienie w Dockerze
+```bash
 docker build -t expense-tracker .
 docker run -p 4173:4173 expense-tracker
+```
